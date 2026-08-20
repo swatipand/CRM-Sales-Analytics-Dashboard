@@ -1,8 +1,10 @@
 # CRM-Sales-Analytics-Dashboard
 ![Salary Dashboard GIF](https://github.com/swatipand/CRM-Sales-Analytics-Dashboard/blob/main/Sales_Dashboard_1.gif)
 
+## Introduction
+
 Interactive CRM Sales Analytics Dashboard built using Power BI, PostgreSQL, SQL, and DAX to analyze revenue, customer performance, product sales, and key business KPIs.
-# CRM Sales Analytics Dashboard
+
 
 ## 📌 Project Overview
 
